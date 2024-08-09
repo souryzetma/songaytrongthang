@@ -1,0 +1,14 @@
+E:\songaytrongthang\bin\Debug\net8.0\songaytrongthang.exe
+E:\songaytrongthang\bin\Debug\net8.0\songaytrongthang.deps.json
+E:\songaytrongthang\bin\Debug\net8.0\songaytrongthang.runtimeconfig.json
+E:\songaytrongthang\bin\Debug\net8.0\songaytrongthang.dll
+E:\songaytrongthang\bin\Debug\net8.0\songaytrongthang.pdb
+E:\songaytrongthang\obj\Debug\net8.0\songaytrongthang.GeneratedMSBuildEditorConfig.editorconfig
+E:\songaytrongthang\obj\Debug\net8.0\songaytrongthang.AssemblyInfoInputs.cache
+E:\songaytrongthang\obj\Debug\net8.0\songaytrongthang.AssemblyInfo.cs
+E:\songaytrongthang\obj\Debug\net8.0\songaytrongthang.csproj.CoreCompileInputs.cache
+E:\songaytrongthang\obj\Debug\net8.0\songaytrongthang.dll
+E:\songaytrongthang\obj\Debug\net8.0\refint\songaytrongthang.dll
+E:\songaytrongthang\obj\Debug\net8.0\songaytrongthang.pdb
+E:\songaytrongthang\obj\Debug\net8.0\songaytrongthang.genruntimeconfig.cache
+E:\songaytrongthang\obj\Debug\net8.0\ref\songaytrongthang.dll
